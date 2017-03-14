@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Wiltshire_4934
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -12,6 +12,9 @@ contributor:
       gutenberg_agent_id: '35404'
       url: http://www.gutenberg.org/2009/agents/35404
       wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aubrey, John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1419
     wikipedia: http://en.wikipedia.org/wiki/John_Aubrey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4934#The-Natural-History-of-Wiltshire
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
