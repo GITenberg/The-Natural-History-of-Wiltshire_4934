@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Wiltshire_4934
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -38,5 +38,6 @@ subjects:
 - !lcc 'DA'
 - !lcsh 'Wiltshire (England) -- History'
 - !lcsh 'Natural history -- England -- Wiltshire'
+- GITenberg
 title: The Natural History of Wiltshire
 url: http://www.gutenberg.org/ebooks/4934
